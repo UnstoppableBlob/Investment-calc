@@ -1,0 +1,117 @@
+/* .App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: serif;
+  min-height: 100vh;
+  background: #FFFBEB;
+}
+
+body {
+  background: #FFFBEB;
+}
+
+
+/* 
+colors
+font
+center the thingy
+ 
+
+#title {
+  text-align: center;
+  color: #D97706;
+  margin-bottom: 30px;
+  font-weight: 300;
+}
+
+.initial-div {
+  padding: 30px;
+}
+
+.initial-div > div,
+.initial-div > form {
+  margin-bottom: 20px;
+}
+
+.initial-div > form > input,
+.rate-div > form > input,
+.dip-div > form > input,
+.growth-div > form > input,
+.tsp-div > form > input {
+  background-color: #FFFBEB;
+}
+
+.initial-form,
+.rate-form,
+.dip-form,
+.growth-form,
+.tsp-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.initial-label,
+.rate-label,
+.dip-label,
+.growth-label,
+.tsp-label {
+  font-weight: 500;
+  color:#D97706;
+  font-size: 14px;
+}
+
+.initial-input,
+.rate-input,
+.dip-input,
+.growth-input,
+.tsp-input {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.2s;
+}
+
+.initial-input:focus,
+.rate-input:focus,
+.dip-input:focus,
+.growth-input:focus,
+.tsp-input:focus {
+  outline: none;
+  border-color: #D97706;
+}
+
+.initial-input:hover,
+.rate-input:hover,
+.dip-input:hover,
+.growth-input:hover,
+.tsp-input:hover {
+  border-color: #F59E0B;
+}
+
+.initial-div h2 {
+  color: #D97706;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  text-align: c;
+}
+
+.initial-div p {
+  margin: 8px 0;
+  font-size: 16px;
+  color: #2c3e50;
+}
+
+.initial-div p b {
+  color: #92400E;
+}
+
+#graph {
+  margin-top: 30px;
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+} */
